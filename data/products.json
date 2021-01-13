@@ -1,0 +1,160 @@
+[{
+    "name": "Iphone",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 500,
+    "quantity": 10,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 0,
+    "rating": 2,
+    "numReviews":1
+
+},
+{
+    "name": "Ipad",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 1500,
+    "quantity": 2,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 2,
+    "rating": 3,
+    "numReviews":10
+
+},
+{
+    "name": "camera",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 2500,
+    "quantity": 5,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 5,
+    "rating": 4,
+    "numReviews":2
+
+},
+{
+    "name": "Scrren",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 800,
+    "quantity": 4,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 1,
+    "rating": 0,
+    "numReviews":0
+
+},
+{
+    "name": "TV",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 650,
+    "quantity": 7,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 3,
+    "rating": 3,
+    "numReviews":10
+
+},
+{
+    "name": "CD",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 2,
+    "quantity": 500,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 8,
+    "rating": 4,
+    "numReviews":1
+
+},
+{
+    "name": "mouse",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 5,
+    "quantity": 10,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 8,
+    "rating": 2,
+    "numReviews":1
+
+},
+{
+    "name": "Key",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 50,
+    "quantity": 80,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 3,
+    "rating": 2,
+    "numReviews":1
+
+},
+{
+    "name": "Sound",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 52,
+    "quantity": 3,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 10,
+    "rating": 0,
+    "numReviews":1
+
+},
+{
+    "name": "Samsung",
+    "description": "Consectetur reprehenderit dolore cupidatat duis nostrud eiusmod esse quis eu occaecat eiusmod cupidatat adipisicing nisi. Do quis cillum irure irure duis nulla mollit cupidatat. Sint commodo id dolor sunt ullamco deserunt commodo proident cupidatat quis sit consequat sunt dolor. Veniam labore minim laboris elit nostrud tempor.",
+    "price": 800,
+    "quantity": 10,
+    
+    "user":"5feec776c881fa7e2f3bef0c",
+    "images": [ 
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/ujkiicvfc7g6yqqhofgg.jpg"},
+        { "url":"https://res.cloudinary.com/dqoung1wz/image/upload/v1609657689/uma3ehxpxvkme9xjwlsq.jpg"}
+    ],
+    "sold": 10,
+    "rating": 5,
+    "numReviews":1
+
+}]
